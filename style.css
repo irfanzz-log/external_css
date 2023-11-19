@@ -120,7 +120,8 @@ footer{
 }
 @media screen and (max-width: 576px ){
     .container{
-        width: 350px;
+        width: 300px;
+        font-size: small;
     }
 }
 
